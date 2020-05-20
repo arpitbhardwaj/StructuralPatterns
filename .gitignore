@@ -3,3 +3,4 @@
 /.idea
 StructuralPatterns.iml
 output.txt
+derby.log
